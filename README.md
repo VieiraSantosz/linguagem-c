@@ -1,2 +1,2 @@
 # LinguagemC
-Atividades / Exercícios desenvolvidas com uso da Linguagem C.
+Atividades / Exercícios realizados ao longo da minha trajetória acadêmica utilizando a Linguagem C.
