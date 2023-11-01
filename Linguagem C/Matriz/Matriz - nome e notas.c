@@ -13,13 +13,13 @@ int main() {
  for (I = 0; I <= 7; I++)
  { 
    printf("\nInforme o nome do %d%c aluno: ", I+1,167);
-   fflush(stdin); //limpa o buffer (mem�ria) do teclado
+   fflush(stdin); //limpa o buffer (memória) do teclado
    gets(NOMES[I]); //LEITURA DE DADOS STRING
    for (J = 0; J <= 3; J++)
  	{
  		printf("Nota %d: ", J+1);
- 		scanf("%f", &NT);//o valor de NT ser� 
- 		NOTAS[I][J] = NT; //atribu�do � matriz 
+ 		scanf("%f", &NT);//o valor de NT será 
+ 		NOTAS[I][J] = NT; //atribuído à matriz 
  	}
 } 
 /* Saida das notas */ 
